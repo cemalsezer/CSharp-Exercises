@@ -5,7 +5,8 @@ namespace _4_AssignToArray
     class Program
     {
         static void Main(string[] args)
-        {
+        {//Prints the entered words in reverse.
+
               Console.Write("Please enter to loop's num: ");
             int loopNum = int.Parse(Console.ReadLine());
             string[] answer = new string[loopNum];
