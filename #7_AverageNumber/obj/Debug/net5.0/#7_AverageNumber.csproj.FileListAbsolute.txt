@@ -1,0 +1,16 @@
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\bin\Debug\net5.0\#7_AverageNumber.exe
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\bin\Debug\net5.0\#7_AverageNumber.deps.json
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\bin\Debug\net5.0\#7_AverageNumber.runtimeconfig.json
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\bin\Debug\net5.0\#7_AverageNumber.runtimeconfig.dev.json
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\bin\Debug\net5.0\#7_AverageNumber.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\bin\Debug\net5.0\ref\#7_AverageNumber.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\bin\Debug\net5.0\#7_AverageNumber.pdb
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.csproj.AssemblyReference.cache
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.AssemblyInfoInputs.cache
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.AssemblyInfo.cs
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\ref\#7_AverageNumber.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.pdb
+C:\Users\cemal\Desktop\CSharp-Exercise\#7_AverageNumber\obj\Debug\net5.0\#7_AverageNumber.genruntimeconfig.cache
