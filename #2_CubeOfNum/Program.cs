@@ -3,7 +3,7 @@
 namespace _2_CubeOfNum
 {
     class Program
-    {
+    { //Exercise thirth
         static void Main(string[] args)
         {
             int sum=0;
