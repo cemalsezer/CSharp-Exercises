@@ -7,3 +7,8 @@
 
 #assets
 assets/*
+#0_Sum/obj/Debug/net5.0/#0_Sum.csproj.AssemblyReference.cache
+#0_Sum/obj/Debug/net5.0/#0_Sum.assets.cache
+#1_SquareOfNum/obj/Debug/net5.0/#1_SquareOfNum.GeneratedMSBuildEditorConfig.editorconfig
+
+#2_CubeOfNum/obj/Debug/net5.0/#2_CubeOfNum.GeneratedMSBuildEditorConfig.editorconfig
