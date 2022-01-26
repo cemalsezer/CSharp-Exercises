@@ -5,7 +5,7 @@ namespace _10_SimpleMethod
     class Program
     {
         static void Main(string[] args)
-        {//example for ctor
+        {//Example for ctor
             int id; string name, surname;
             Console.Write($"Id: ");
             id =int.Parse(Console.ReadLine());
