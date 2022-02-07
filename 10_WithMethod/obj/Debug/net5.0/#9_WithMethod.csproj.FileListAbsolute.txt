@@ -1,0 +1,16 @@
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.csproj.AssemblyReference.cache
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.AssemblyInfoInputs.cache
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.AssemblyInfo.cs
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.csproj.CoreCompileInputs.cache
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\bin\Debug\net5.0\#9_WithMethod.exe
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\bin\Debug\net5.0\#9_WithMethod.deps.json
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\bin\Debug\net5.0\#9_WithMethod.runtimeconfig.json
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\bin\Debug\net5.0\#9_WithMethod.runtimeconfig.dev.json
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\bin\Debug\net5.0\#9_WithMethod.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\bin\Debug\net5.0\ref\#9_WithMethod.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\bin\Debug\net5.0\#9_WithMethod.pdb
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\ref\#9_WithMethod.dll
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.pdb
+C:\Users\cemal\Desktop\CSharp-Exercise\#9_WithMethod\obj\Debug\net5.0\#9_WithMethod.genruntimeconfig.cache
